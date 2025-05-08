@@ -106,6 +106,7 @@ public:
                 cout << currentNode->noMhs << endl;
                 currentNode = currentNode->next;
             }
+            cout << endl;
         }
    
     }

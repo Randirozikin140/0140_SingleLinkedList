@@ -111,3 +111,10 @@ public:
    
     }
 };
+
+int main()
+{
+    List mhs;
+    int nim;
+    char ch;
+}
